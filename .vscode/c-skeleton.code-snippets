@@ -1,0 +1,15 @@
+{
+	"Skeleton": {
+			"prefix": "c",
+			"body": [
+					"#include <stdio.h>",
+					"",
+					"int main()",
+					"{",
+					"\t${1:/*code*/}",
+					"\treturn 0;",
+					"}",
+			],
+			"description": "c program skeleton"
+	}
+}
