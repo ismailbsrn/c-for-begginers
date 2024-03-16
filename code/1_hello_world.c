@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /* 
   my first
   c program
