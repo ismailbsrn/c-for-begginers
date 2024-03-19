@@ -1,3 +1,5 @@
+// digits from left to right
+
 #include <stdio.h>
 
 int main()
