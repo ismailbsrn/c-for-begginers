@@ -5,7 +5,7 @@ int main()
 {
   int x = 5;
   int y = 2;
-  long double degree, radian;
+  float degree, radian;
   const double PI = 3.14159265359;
 
   printf("%d\n", x + y);
